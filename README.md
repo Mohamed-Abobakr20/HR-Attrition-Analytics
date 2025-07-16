@@ -87,18 +87,13 @@ This project helps:
 
 ----------------------------------------------------------------------------------------------------
 
-## ** Phase (3) Insights **
+## ** Phase (3) Some Insights **
 
-(1) We processed 500 orders totaling $ 149,63K. The average order value was $299,3.
+(1) Attrition rate is (18.2 %) which is very high and indicates a problem to solve.
 
-(2) Sales peaked in Ocrober 2024, suggesting strong demand. Sales dipped in Augest 2024, indicating a slow season.
+(2) HR and R&D departments are close for high attrition, this indicates high pressure.
 
-(3) Gadget X is the highest of total sales, while Widget A is lowest.
+(3) Tenure (10+ years) are the highest. 
 
-(4) The South and North region are top and equal in sales.
+(4) Single females indicate high attrition.
 
-(5) Sarah Kim is the top performer with consistent sales $ 33K.
-
-(6) The South region has the highest AOV, suggesting an opportunity for premium product promotion.
-
-(7) Average Order Value is increasing year-over-year, indicating stronger customer engagement
