@@ -23,37 +23,37 @@ This project helps:
 
 (2) What decisions will this report support?
 
--- Improve retention strategies
+  - Improve retention strategies
 
--- Launch programs for younger or less satisfied workers
+  - Launch programs for younger or less satisfied workers
 
--- Reduce costs of hiring
+  - Reduce costs of hiring
 
--- Improve salaries or reduce overtime for specific roles
+  - Improve salaries or reduce overtime for specific roles
 
 (3) What questions will it answer?
 
--- What is the overall employee attrition rate?
+  - What is the overall employee attrition rate?
 
--- Which departments have the highest attrition?
+  - Which departments have the highest attrition?
 
--- Do gender or marital status influence churn?
+  - Do gender or marital status influence churn?
 
--- Are younger employees more likely to leave?
+  - Are younger employees more likely to leave?
 
--- Do overtime or low income lead to quitting?
+  - Do overtime or low income lead to quitting?
 
--- Does job satisfaction affect attrition?
+  - Does job satisfaction affect attrition?
 
 (4) Define Key Metrics (KPIs)
 
--- Attrition Rate	
+  - Attrition Rate	
 
--- Attrition Count	
+  - Attrition Count	
 
--- Total Employees
+  - Total Employees
 
--- Avg Monthly Income
+  - Avg Monthly Income
 
 ----------------------------------------------------------------------------------------------------
 
