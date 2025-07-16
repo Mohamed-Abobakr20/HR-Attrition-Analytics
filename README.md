@@ -3,13 +3,13 @@
 Employee attrition (people quitting the company) is expensive and risky for any organization.
 This project helps:
 
--- Understand why employees are leaving
+  - Understand why employees are leaving
 
--- Identify patterns (e.g. which departments, age groups, or roles have high attrition)
+  - Identify patterns (e.g. which departments, age groups, or roles have high attrition)
 
--- Support HR decisions with real data
+  - Support HR decisions with real data
 
--- Improve employee retention and reduce future attrition
+  - Improve employee retention and reduce future attrition
 
 ----------------------------------------------------------------------------------------------------
 
