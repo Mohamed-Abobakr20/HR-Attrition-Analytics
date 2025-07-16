@@ -1,5 +1,5 @@
 # HR-Attrition-Analytics
-###  Note : The dashobard only related to employee with attrition = "yes"
+###  Note : The dashobard is only related to employees with attrition = "yes"
 Employee attrition (people quitting the company) is expensive and risky for any organization.
 This project helps:
 
