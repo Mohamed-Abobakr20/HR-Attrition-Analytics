@@ -10,8 +10,10 @@ This project helps:
 
 -- Improve employee retention and reduce future attrition
 
+----------------------------------------------------------------------------------------------------
 
 ** Phase (0) Project Goals **
+
 (1) Who is the audience?
 
 -- HR Managers
@@ -50,7 +52,10 @@ This project helps:
 
 -- Avg Monthly Income
 
+----------------------------------------------------------------------------------------------------
+
 ** Phase (1) Cleaning Data **
+
 (1) Check missing values
 
 (2) Validate data types
@@ -63,12 +68,18 @@ This project helps:
 
 (6) Add helper columns
 
+----------------------------------------------------------------------------------------------------
+
 ** Phase (2) Data Analysis **
+
 (1) Creating all the charts and pivot tables to answer the questions
 
 (2) Adding filters (region - product - year)
 
+----------------------------------------------------------------------------------------------------
+
 ** Phase (3) Insights **
+
 (1) We processed 500 orders totaling $ 149,63K. The average order value was $299,3.
 
 (2) Sales peaked in Ocrober 2024, suggesting strong demand. Sales dipped in Augest 2024, indicating a slow season.
