@@ -55,18 +55,21 @@ This project helps:
 ----------------------------------------------------------------------------------------------------
 
 ## ** Phase (1) Cleaning Data **
+### By using MySQL to :
 
-(1) Check missing values
+(1) create database and import data from csv file
 
-(2) Validate data types
+(2) Check missing values in all columns
 
 (3) Standardize text fields
 
-(4) Remove duplicates
+(4) Remove invalid numeric values
 
-(5) Check outliers
+(5) Ensure YearsAtCompany <= TotalWorkingYears
 
-(6) Add helper columns
+(5) Remove duplicates based on EmployeeID
+
+(6) Add helper columns (Age Group)
 
 ----------------------------------------------------------------------------------------------------
 
