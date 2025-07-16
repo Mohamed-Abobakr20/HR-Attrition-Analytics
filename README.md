@@ -25,9 +25,11 @@ This project helps:
 
 -- Improve retention strategies
 
--- Enhance employee satisfaction
+-- Launch programs for younger or less satisfied workers
 
 -- Reduce costs of hiring
+
+-- Improve salaries or reduce overtime for specific roles
 
 (3) What questions will it answer?
 
