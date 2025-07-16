@@ -1,4 +1,5 @@
 # HR-Attrition-Analytics
+###  Note : The dashobard only related to employee with attrition = "yes"
 Employee attrition (people quitting the company) is expensive and risky for any organization.
 This project helps:
 
@@ -74,10 +75,13 @@ This project helps:
 ----------------------------------------------------------------------------------------------------
 
 ## ** Phase (2) Data Analysis **
+### By using Power BI to :
 
-(1) Creating all the charts and pivot tables to answer the questions
+(1) Creating all the measures and columns needed.
 
-(2) Adding filters (region - product - year)
+(2) creating the charts to answer questions and gain insights
+
+(2) Adding filters (job role)
 
 ----------------------------------------------------------------------------------------------------
 
