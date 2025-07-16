@@ -17,9 +17,9 @@ This project helps:
 
 (1) Who is the audience?
 
--- HR Managers
+  - HR Managers
 
--- Business Intelligence Analysts
+  - Business Intelligence Analysts
 
 (2) What decisions will this report support?
 
