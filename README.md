@@ -12,7 +12,7 @@ This project helps:
 
 ----------------------------------------------------------------------------------------------------
 
-** Phase (0) Project Goals **
+## ** Phase (0) Project Goals **
 
 (1) Who is the audience?
 
@@ -54,7 +54,7 @@ This project helps:
 
 ----------------------------------------------------------------------------------------------------
 
-** Phase (1) Cleaning Data **
+## ** Phase (1) Cleaning Data **
 
 (1) Check missing values
 
@@ -70,7 +70,7 @@ This project helps:
 
 ----------------------------------------------------------------------------------------------------
 
-** Phase (2) Data Analysis **
+## ** Phase (2) Data Analysis **
 
 (1) Creating all the charts and pivot tables to answer the questions
 
@@ -78,7 +78,7 @@ This project helps:
 
 ----------------------------------------------------------------------------------------------------
 
-** Phase (3) Insights **
+## ** Phase (3) Insights **
 
 (1) We processed 500 orders totaling $ 149,63K. The average order value was $299,3.
 
